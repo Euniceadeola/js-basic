@@ -1,6 +1,15 @@
-1. JavaScript can be run outside the browser using Node.js.
+1. You can run JavaScript console in terminal or any command-line interface using Node.js.
 
-2. THINGS THAT JAVASCRIPT CAN DO: Create interactive webpages. Manipulate web page content, Add dynamic effects to webpages, Create online games and applications, Access and manipulate data from databases
+2. THINGS THAT JAVASCRIPT CAN DO:
+    * Show or hide more information with the click of a button
+
+    * Displaying a timer or count-down on a website
+
+    * Playing audio and video in a web page
+
+    * Displaying animations
+
+    * Using a drop-down hamburger menu
 
 3. ECMAScript was first released in June 1997.
 

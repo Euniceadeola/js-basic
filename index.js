@@ -1,13 +1,13 @@
 function multiply(number1, number2) {
   return number1 * number2;
 }
-console.log(multiply(50, 2));
+console.log(multiply(20, 4));
 //variables
-let firstname = "Faustina";
-let lastname = "Onoriode";
+let firstname = "Eunice";
+let lastname = "Adeola";
 let stuterntrack = "frontend developer"
-let skills = "HTML, CSS and baking"
-let favourite_color ="blue";
+let skills = "HTML, CSS graphics, and Fashion Designing"
+let favourite_color ="black";
 let year_of_independence ="1960";
 
 console.log(firstname);
